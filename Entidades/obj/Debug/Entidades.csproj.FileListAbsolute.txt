@@ -1,0 +1,11 @@
+C:\Users\pc\Downloads\TF1\TF1\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc\Downloads\TF1\TF1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc\Downloads\TF1\TF1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\TF1\TF1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\TF1\TF1\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc\Downloads\TF1\TF1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\OneDrive\Documentos\TF_201911702\TF1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\OneDrive\Documentos\TF_201911702\TF1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\OneDrive\Documentos\TF_201911702\TF1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\TF_201911702\TF1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\OneDrive\Documentos\TF_201911702\TF1\Entidades\obj\Debug\Entidades.pdb
